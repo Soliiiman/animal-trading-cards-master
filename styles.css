@@ -1,0 +1,30 @@
+    .card-frame {
+        border: 1px solid #D3D3D3;
+        padding: 5px 10px;
+        width: 325px;
+        box-sizing: border-box;
+        box-shadow: 7px 7px 4px -1px rgba(209, 202, 209, 0.87);
+    }
+    
+    .info-frame {
+        border: 1px solid #D3D3D3;
+        padding: 5px;
+        width: 290px;
+        box-sizing: brder-box;
+        margin-top: 10px;
+        margin-bottom: 10px;
+        font-size: 16px;
+    }
+    
+    span {
+        font-weight: bold;
+    }
+    
+    ul {
+        list-style-type: none;
+        text-indent: -40px;
+    }
+    
+    .interest {
+        font-style: italic;
+    }
